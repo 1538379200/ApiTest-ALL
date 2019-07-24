@@ -1,6 +1,6 @@
 # ApiTest-ALL
 代码使用的编程语言为python<br/>
-python+django进行前后端编程<br/>
+辅助库：Django<br/>
 数据库使用MySQL<br/>
 编辑器使用PyCharm<br/>
 前端页面包含：用户注册、用户登录、用户登录跳转、首页接口测试界面<br/>
